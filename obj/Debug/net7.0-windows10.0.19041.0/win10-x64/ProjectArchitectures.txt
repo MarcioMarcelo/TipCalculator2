@@ -1,0 +1,1 @@
+D:\2DS\MARCELOMARCIO_2DS\PAM\TipCalculator\TipCalculator.csproj;x64
